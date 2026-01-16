@@ -1,7 +1,0 @@
-C:/Users/kgdch/source/repos/TickForge/build/CMakeFiles/tickforge.dir
-C:/Users/kgdch/source/repos/TickForge/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/kgdch/source/repos/TickForge/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/kgdch/source/repos/TickForge/build/_deps/nlohmann_json-build/CMakeFiles/ALL_BUILD.dir
-C:/Users/kgdch/source/repos/TickForge/build/_deps/sdl3-build/CMakeFiles/SDL3-static.dir
-C:/Users/kgdch/source/repos/TickForge/build/_deps/sdl3-build/CMakeFiles/SDL_uclibc.dir
-C:/Users/kgdch/source/repos/TickForge/build/_deps/sdl3-build/CMakeFiles/ALL_BUILD.dir
