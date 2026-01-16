@@ -3,8 +3,8 @@
         {
             "on": "WallCollision",
             "action": {
-                "type": "ScaleVelocity",
-                "factor": 10
+                "type": "WallBounce",
+                "factor": 1
             }
         }
     ]

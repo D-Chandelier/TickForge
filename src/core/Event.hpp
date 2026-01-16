@@ -11,9 +11,18 @@ namespace TickForge
         Custom
     };
 
+    enum class WallSide
+    {
+        Left,
+        Right,
+        Top,
+        Bottom
+    };
+
     struct Event
     {
         EventType type;
         int entityId;
+        WallSide wallSide;
     };
 }

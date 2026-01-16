@@ -9,27 +9,36 @@
 
 int main()
 {
-    constexpr float TICK_DT = 1.0f / 60.0f;
+    constexpr float TICK_DT = 1.0f / 120.0f;
 
     TickForge::TickClock clock(TICK_DT);
     TickForge::World world;
     auto rules = TickForge::RuleLoader::loadFromFile("./rules.json");
     TickForge::RuleSystem ruleSystem(rules);
     TickForge::Renderer renderer(500, 500);
-    TickForge::Entity e1, e2;
+    TickForge::Entity e1, e2, e3;
 
     e1.id = 1;
-    e1.position = {250.f, 250.f};
-    e1.size = {20.f, 20.f};
-    e1.velocity = {50.f, 50.f};
+    e1.type = TickForge::EntityType::Circle;
+    e1.position = {250.f, 150.f};
+    e1.radius = 10.f;
+    e1.velocity = {70.f, 10.f};
 
     e2.id = 2;
+    e2.type = TickForge::EntityType::Rectangle;
     e2.position = {350.f, 350.f};
     e2.size = {20.f, 20.f};
-    e2.velocity = {-50.f, -50.f};
+    e2.velocity = {-100.f, -60.f};
+
+    e3.id = 3;
+    e3.type = TickForge::EntityType::Circle;
+    e3.position = {50.f, 150.f};
+    e3.radius = 10.f;
+    e3.velocity = {100.f, -10.f};
 
     world.addEntity(e1);
     world.addEntity(e2);
+    world.addEntity(e3);
 
     while (renderer.isRunning())
     {

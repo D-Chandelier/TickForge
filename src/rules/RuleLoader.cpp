@@ -22,6 +22,9 @@ namespace TickForge
             return ActionType::ScaleVelocity;
         if (s == "ReverseVelocity")
             return ActionType::ReverseVelocity;
+        if (s == "WallBounce")
+            return ActionType::WallBounce;
+            
         throw std::runtime_error("Unknown ActionType: " + s);
     }
 

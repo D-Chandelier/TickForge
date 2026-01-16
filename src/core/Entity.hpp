@@ -3,39 +3,39 @@
 
 namespace TickForge
 {
+    enum class EntityType
+    {
+        Rectangle,
+        Circle
+    };
+
     struct Entity
     {
         int id;
+
+        EntityType type;
+
         struct
         {
-            float x = {};
-            float y;
+            float x,y;
         } position;
         struct
         {
-            float w;
-            float h;
+            float x,y;
         } size;
         struct
         {
-            float x;
-            float y;
+            float x,y;
         } velocity;
 
-        bool collidesWith(const Entity &other) const
-        {
-            return !(position.x + size.w < other.position.x ||
-                     position.x > other.position.x + other.size.w ||
-                     position.y + size.h < other.position.y ||
-                     position.y > other.position.y + other.size.h);
-        }
-        bool WallCollidesWith() const
-        {
-            return (position.x + size.w > 500 ||
-                    position.x < 0 ||
-                    position.y + size.h > 500 ||
-                    position.y < 0);
-        }
+        float radius = 0.f;
+        float mass = 1.f;
+
+        bool collidesWith(const Entity &other) const;
+        bool circleCircle(const Entity &other) const;
+        bool rectRect(const Entity& other) const;
+        bool circleRect(const Entity& c, const Entity& r) const;
+        
     };
 
 }

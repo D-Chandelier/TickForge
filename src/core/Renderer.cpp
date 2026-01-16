@@ -1,5 +1,6 @@
 ﻿#include "Renderer.hpp"
 #include <iostream>
+#include <corecrt_math_defines.h>
 
 namespace TickForge
 {
@@ -65,18 +66,61 @@ namespace TickForge
 
         for (const auto &e : world.entities())
         {
-            SDL_FRect rectf;
-            rectf.w = e.size.w;
-            rectf.h = e.size.h;
-            rectf.x = e.position.x;
-            rectf.y = e.position.y;
-
-            SDL_RenderFillRect(m_renderer, &rectf);
+            if (e.type == TickForge::EntityType::Rectangle)
+            {
+                SDL_FRect rect;
+                rect.w = e.size.x;
+                rect.h = e.size.y;
+                rect.x = e.position.x;
+                rect.y = e.position.y;
+                SDL_RenderFillRect(m_renderer, &rect);
+                continue;
+            }
+            if(e.type == TickForge::EntityType::Circle)
+            {
+                drawFilledCircle(m_renderer, e.position.x, e.position.y, e.radius);
+                continue;
+            }
         }
     }
 
     void Renderer::present()
     {
         SDL_RenderPresent(m_renderer);
+    }
+
+    void Renderer::drawFilledCircle(SDL_Renderer* r, float cx, float cy, float radius)
+    {
+        const int ir = static_cast<int>(radius);
+
+        for (int y = -ir; y <= ir; ++y)
+        {
+            float dx = std::sqrt(radius * radius - y * y);
+
+            float x0 = cx - dx;
+            float x1 = cx + dx;
+
+            SDL_RenderLine(
+                r,
+                x0, cy + y,
+                x1, cy + y
+            );
+        }
+    }
+
+    void Renderer::drawCircle(SDL_Renderer* r, float cx, float cy, float radius)
+    {
+        const int segments = 24;
+        for (int i = 0; i < segments; ++i)
+        {
+            float a0 = i * 2.0f * M_PI / segments;
+            float a1 = (i+1) * 2.0f * M_PI / segments;
+
+            SDL_RenderLine(
+                r,
+                cx + cos(a0)*radius, cy + sin(a0)*radius,
+                cx + cos(a1)*radius, cy + sin(a1)*radius
+            );
+        }
     }
 }

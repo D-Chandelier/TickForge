@@ -25,14 +25,33 @@ namespace TickForge
 
                     switch (rule.action.type)
                     {
-                    case ActionType::ReverseVelocity:
-                        e.velocity.x *= rule.action.factor;
-                        e.velocity.y *= rule.action.factor;
+                    case ActionType::WallBounce:
+                        if (ev.wallSide == WallSide::Left || ev.wallSide == WallSide::Right)
+                            e.velocity.x = -e.velocity.x;
+
+                        if (ev.wallSide == WallSide::Top || ev.wallSide == WallSide::Bottom)
+                            e.velocity.y = -e.velocity.y;
+
                         break;
 
                     case ActionType::ScaleVelocity:
                         e.velocity.x *= rule.action.factor;
                         e.velocity.y *= rule.action.factor;
+                        break;
+
+                    case ActionType::RemoveEntity:
+                        world.removeEntity(e.id);
+                        break;
+
+                    case ActionType::AddEntity:
+                        break;
+
+                    case ActionType::ScaleSize:
+                        e.size.x *= rule.action.factor;
+                        e.size.y *= rule.action.factor;
+                        break;
+
+                    default:
                         break;
                     }
                 }

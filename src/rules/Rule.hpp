@@ -6,7 +6,12 @@ namespace TickForge
     enum class ActionType
     {
         ScaleVelocity,
-        ReverseVelocity
+        ReverseVelocity,
+        WallBounce,
+        Bounce,
+        RemoveEntity,
+        AddEntity,
+        ScaleSize
     };
 
     struct Action

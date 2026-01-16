@@ -23,5 +23,6 @@ namespace TickForge
         std::vector<Event> m_events;
 
         void handleCollisions();
+        void resolveCircleCircle(Entity &a, Entity &b, float restitution);
     };
 }
