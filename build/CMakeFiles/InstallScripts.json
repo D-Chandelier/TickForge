@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/kgdch/source/repos/TickForge/build/cmake_install.cmake",
+		"C:/Users/kgdch/source/repos/TickForge/build/_deps/nlohmann_json-build/cmake_install.cmake",
+		"C:/Users/kgdch/source/repos/TickForge/build/_deps/sdl3-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

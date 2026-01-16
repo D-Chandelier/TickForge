@@ -1,0 +1,11 @@
+﻿{
+    "rules": [
+        {
+            "on": "WallCollision",
+            "action": {
+                "type": "ScaleVelocity",
+                "factor": 10
+            }
+        }
+    ]
+}

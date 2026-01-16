@@ -1,0 +1,1970 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\cmake_pch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_assert.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_error.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_guid.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_hashtable.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_hints.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_list.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_log.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_properties.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_utils.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\atomic\SDL_atomic.c">
+      <Filter>src\atomic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\atomic\SDL_spinlock.c">
+      <Filter>src\atomic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audio.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audiocvt.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audiodev.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audioqueue.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audioresample.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audiotypecvt.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_mixer.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_wave.c">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\camera\SDL_camera.c">
+      <Filter>src\camera</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\SDL_core_unsupported.c">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\cpuinfo\SDL_cpuinfo.c">
+      <Filter>src\cpuinfo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dynapi\SDL_dynapi.c">
+      <Filter>src\dynapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_categories.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_clipboardevents.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_displayevents.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_dropevents.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_events.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_eventwatch.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keyboard.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keymap.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keysym_to_keycode.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keysym_to_scancode.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_mouse.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_pen.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_quit.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_scancode_tables.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_touch.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_windowevents.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\imKStoUCS.c">
+      <Filter>src\events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\filesystem\SDL_filesystem.c">
+      <Filter>src\filesystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\gpu\SDL_gpu.c">
+      <Filter>src\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\SDL_haptic.c">
+      <Filter>src\haptic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi.c">
+      <Filter>src\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\SDL_asyncio.c">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\SDL_iostream.c">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\generic\SDL_asyncio_generic.c">
+      <Filter>src\io\generic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_gamepad.c">
+      <Filter>src\joystick</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_joystick.c">
+      <Filter>src\joystick</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_steam_virtual_gamepad.c">
+      <Filter>src\joystick</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\controller_type.c">
+      <Filter>src\joystick</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\locale\SDL_locale.c">
+      <Filter>src\locale</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\main\SDL_main_callbacks.c">
+      <Filter>src\main</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\main\SDL_runapp.c">
+      <Filter>src\main</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\misc\SDL_libusb.c">
+      <Filter>src\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\misc\SDL_url.c">
+      <Filter>src\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\power\SDL_power.c">
+      <Filter>src\power</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_render.c">
+      <Filter>src\render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_render_unsupported.c">
+      <Filter>src\render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_yuv_sw.c">
+      <Filter>src\render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\SDL_render_d3d.c">
+      <Filter>src\render\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\SDL_shaders_d3d.c">
+      <Filter>src\render\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\SDL_render_d3d11.c">
+      <Filter>src\render\direct3d11</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\SDL_shaders_d3d11.c">
+      <Filter>src\render\direct3d11</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\SDL_render_d3d12.c">
+      <Filter>src\render\direct3d12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\SDL_shaders_d3d12.c">
+      <Filter>src\render\direct3d12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\gpu\SDL_pipeline_gpu.c">
+      <Filter>src\render\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\gpu\SDL_render_gpu.c">
+      <Filter>src\render\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\gpu\SDL_shaders_gpu.c">
+      <Filter>src\render\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\ngage\SDL_render_ngage.c">
+      <Filter>src\render\ngage</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengl\SDL_render_gl.c">
+      <Filter>src\render\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengl\SDL_shaders_gl.c">
+      <Filter>src\render\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengles2\SDL_render_gles2.c">
+      <Filter>src\render\opengles2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengles2\SDL_shaders_gles2.c">
+      <Filter>src\render\opengles2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\ps2\SDL_render_ps2.c">
+      <Filter>src\render\ps2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\psp\SDL_render_psp.c">
+      <Filter>src\render\psp</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_blendfillrect.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_blendline.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_blendpoint.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_drawline.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_drawpoint.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_render_sw.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_triangle.c">
+      <Filter>src\render\software</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm.c">
+      <Filter>src\render\vitagxm</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm_memory.c">
+      <Filter>src\render\vitagxm</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm_tools.c">
+      <Filter>src\render\vitagxm</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\SDL_render_vulkan.c">
+      <Filter>src\render\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\SDL_shaders_vulkan.c">
+      <Filter>src\render\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\sensor\SDL_sensor.c">
+      <Filter>src\sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_crc16.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_crc32.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_getenv.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_iconv.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_malloc.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_memcpy.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_memmove.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_memset.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_mslibc.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_murmur3.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_qsort.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_random.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_stdlib.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_string.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_strtokr.c">
+      <Filter>src\stdlib</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\storage\SDL_storage.c">
+      <Filter>src\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\SDL_thread.c">
+      <Filter>src\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\time\SDL_time.c">
+      <Filter>src\time</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\timer\SDL_timer.c">
+      <Filter>src\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_RLEaccel.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_0.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_1.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_A.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_N.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_auto.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_copy.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_slow.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_bmp.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_clipboard.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_egl.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_fillrect.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_pixels.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_rect.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_rotate.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_stb.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_stretch.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_surface.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_video.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_video_unsupported.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_vulkan_utils.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_yuv.c">
+      <Filter>src\video</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_lsx.c">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_sse.c">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_std.c">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\dummy\SDL_dummyaudio.c">
+      <Filter>src\audio\dummy</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\disk\SDL_diskaudio.c">
+      <Filter>src\audio\disk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\camera\dummy\SDL_camera_dummy.c">
+      <Filter>src\camera\dummy</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\virtual\SDL_virtualjoystick.c">
+      <Filter>src\joystick\virtual</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_gameinput.cpp">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_hid.c">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_immdevice.c">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_windows.c">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_xinput.c">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\pch.c">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\pch_cpp.cpp">
+      <Filter>src\core\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\main\windows\SDL_sysmain_runapp.c">
+      <Filter>src\main\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\windows\SDL_asyncio_windows_ioring.c">
+      <Filter>src\io\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\misc\windows\SDL_sysurl.c">
+      <Filter>src\misc\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\directsound\SDL_directsound.c">
+      <Filter>src\audio\directsound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\wasapi\SDL_wasapi.c">
+      <Filter>src\audio\wasapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsclipboard.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsevents.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsframebuffer.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsgameinput.cpp">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowskeyboard.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsmessagebox.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsmodes.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsmouse.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengl.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengles.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsrawinput.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsshape.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsvideo.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsvulkan.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowswindow.c">
+      <Filter>src\video\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\generic\SDL_syscond.c">
+      <Filter>src\thread\generic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\generic\SDL_sysrwlock.c">
+      <Filter>src\thread\generic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\windows\SDL_syscond_cv.c">
+      <Filter>src\thread\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\windows\SDL_sysmutex.c">
+      <Filter>src\thread\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\windows\SDL_sysrwlock_srw.c">
+      <Filter>src\thread\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\windows\SDL_syssem.c">
+      <Filter>src\thread\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\windows\SDL_systhread.c">
+      <Filter>src\thread\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\windows\SDL_systls.c">
+      <Filter>src\thread\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\sensor\windows\SDL_windowssensor.c">
+      <Filter>src\sensor\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\power\windows\SDL_syspower.c">
+      <Filter>src\power\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\locale\windows\SDL_syslocale.c">
+      <Filter>src\locale\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\filesystem\windows\SDL_sysfilesystem.c">
+      <Filter>src\filesystem\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\filesystem\windows\SDL_sysfsops.c">
+      <Filter>src\filesystem\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\storage\generic\SDL_genericstorage.c">
+      <Filter>src\storage\generic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\storage\steam\SDL_steamstorage.c">
+      <Filter>src\storage\steam</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\time\windows\SDL_systime.c">
+      <Filter>src\time\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\timer\windows\SDL_systimer.c">
+      <Filter>src\timer\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\loadso\windows\SDL_sysloadso.c">
+      <Filter>src\loadso\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\tray\windows\SDL_tray.c">
+      <Filter>src\tray\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_8bitdo.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_combined.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_flydigi.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_gamecube.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_gip.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_lg4ff.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_luna.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_ps3.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_ps4.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_ps5.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_rumble.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_shield.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_sinput.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_stadia.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_steam.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_steam_hori.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_steam_triton.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_steamdeck.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_switch.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_switch2.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_wii.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_xbox360.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_xbox360w.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_xboxone.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_zuiki.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapijoystick.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\hidapi\SDL_report_descriptor.c">
+      <Filter>src\joystick\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\hidapi\SDL_hidapihaptic.c">
+      <Filter>src\haptic\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\hidapi\SDL_hidapihaptic_lg4ff.c">
+      <Filter>src\haptic\hidapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_dinputjoystick.c">
+      <Filter>src\joystick\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_rawinputjoystick.c">
+      <Filter>src\joystick\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_windows_gaming_input.c">
+      <Filter>src\joystick\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_windowsjoystick.c">
+      <Filter>src\joystick\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_xinputjoystick.c">
+      <Filter>src\joystick\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\gdk\SDL_gameinputjoystick.cpp">
+      <Filter>src\joystick\gdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\windows\SDL_dinputhaptic.c">
+      <Filter>src\haptic\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\windows\SDL_windowshaptic.c">
+      <Filter>src\haptic\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\camera\mediafoundation\SDL_camera_mediafoundation.c">
+      <Filter>src\camera\mediafoundation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dialog\SDL_dialog.c">
+      <Filter>src\dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dialog\SDL_dialog_utils.c">
+      <Filter>src\dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dialog\windows\SDL_windowsdialog.c">
+      <Filter>src\dialog\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\process\SDL_process.c">
+      <Filter>src\process</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\process\windows\SDL_windowsprocess.c">
+      <Filter>src\process\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenevents.c">
+      <Filter>src\video\offscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenframebuffer.c">
+      <Filter>src\video\offscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenopengles.c">
+      <Filter>src\video\offscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenvideo.c">
+      <Filter>src\video\offscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenvulkan.c">
+      <Filter>src\video\offscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenwindow.c">
+      <Filter>src\video\offscreen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\tray\SDL_tray_utils.c">
+      <Filter>src\tray</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\gpu\d3d12\SDL_gpu_d3d12.c">
+      <Filter>src\gpu\d3d12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\gpu\vulkan\SDL_gpu_vulkan.c">
+      <Filter>src\gpu\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\main\generic\SDL_sysmain_callbacks.c">
+      <Filter>src\main\generic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_assert_c.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_error_c.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_hashtable.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_hints_c.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_internal.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_list.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_log_c.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_properties_c.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\SDL_utils_c.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audio_c.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audio_channel_converters.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audiodev_c.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audioqueue.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_audioresample.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_sysaudio.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\SDL_wave.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\camera\SDL_camera_c.h">
+      <Filter>src\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\camera\SDL_syscamera.h">
+      <Filter>src\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\SDL_core_unsupported.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\cpuinfo\SDL_cpuinfo_c.h">
+      <Filter>src\cpuinfo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dynapi\SDL_dynapi.h">
+      <Filter>src\dynapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dynapi\SDL_dynapi_overrides.h">
+      <Filter>src\dynapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dynapi\SDL_dynapi_procs.h">
+      <Filter>src\dynapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\dynapi\SDL_dynapi_unsupported.h">
+      <Filter>src\dynapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_categories_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_clipboardevents_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_displayevents_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_dropevents_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_events_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_eventwatch_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keyboard_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keymap_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keysym_to_keycode_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_keysym_to_scancode_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_mouse_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_pen_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_scancode_tables_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_touch_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\SDL_windowevents_c.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\blank_cursor.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\default_cursor.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\imKStoUCS.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\scancodes_darwin.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\scancodes_linux.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\scancodes_windows.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\events\scancodes_xfree86.h">
+      <Filter>src\events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\filesystem\SDL_filesystem_c.h">
+      <Filter>src\filesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\filesystem\SDL_sysfilesystem.h">
+      <Filter>src\filesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\gpu\SDL_sysgpu.h">
+      <Filter>src\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\SDL_haptic_c.h">
+      <Filter>src\haptic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\SDL_syshaptic.h">
+      <Filter>src\haptic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_android.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_c.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_ios.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_libusb.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_linux.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_mac.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_netbsd.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_steamxbox.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_windows.h">
+      <Filter>src\hidapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\SDL_asyncio_c.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\SDL_iostream_c.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\io\SDL_sysasyncio.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_gamepad_c.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_gamepad_db.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_joystick_c.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_steam_virtual_gamepad.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\SDL_sysjoystick.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\controller_list.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\controller_type.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\usb_ids.h">
+      <Filter>src\joystick</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\locale\SDL_syslocale.h">
+      <Filter>src\locale</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\main\SDL_main_callbacks.h">
+      <Filter>src\main</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\misc\SDL_libusb.h">
+      <Filter>src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\misc\SDL_sysurl.h">
+      <Filter>src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\power\SDL_syspower.h">
+      <Filter>src\power</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_d3dmath.h">
+      <Filter>src\render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_render_debug_font.h">
+      <Filter>src\render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_sysrender.h">
+      <Filter>src\render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\SDL_yuv_sw_c.h">
+      <Filter>src\render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\D3D9_PixelShader_Palette.h">
+      <Filter>src\render\direct3d</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\D3D9_PixelShader_Palette_Linear.h">
+      <Filter>src\render\direct3d</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\D3D9_PixelShader_Palette_Nearest.h">
+      <Filter>src\render\direct3d</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\D3D9_PixelShader_YUV.h">
+      <Filter>src\render\direct3d</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d\SDL_shaders_d3d.h">
+      <Filter>src\render\direct3d</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Advanced.h">
+      <Filter>src\render\direct3d11</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Colors.h">
+      <Filter>src\render\direct3d11</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Textures.h">
+      <Filter>src\render\direct3d11</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\D3D11_VertexShader.h">
+      <Filter>src\render\direct3d11</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d11\SDL_shaders_d3d11.h">
+      <Filter>src\render\direct3d11</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_PixelShader_Advanced.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_PixelShader_Colors.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_PixelShader_Textures.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_RootSig_Advanced.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_RootSig_Color.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_RootSig_Texture.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_VertexShader_Advanced.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_VertexShader_Color.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\D3D12_VertexShader_Texture.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\SDL_render_d3d12_xbox.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\direct3d12\SDL_shaders_d3d12.h">
+      <Filter>src\render\direct3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\gpu\SDL_gpu_util.h">
+      <Filter>src\render\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\gpu\SDL_pipeline_gpu.h">
+      <Filter>src\render\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\gpu\SDL_shaders_gpu.h">
+      <Filter>src\render\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\metal\SDL_shaders_metal_ios.h">
+      <Filter>src\render\metal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\metal\SDL_shaders_metal_iphonesimulator.h">
+      <Filter>src\render\metal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\metal\SDL_shaders_metal_macos.h">
+      <Filter>src\render\metal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\metal\SDL_shaders_metal_tvos.h">
+      <Filter>src\render\metal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\metal\SDL_shaders_metal_tvsimulator.h">
+      <Filter>src\render\metal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\ngage\SDL_render_ngage_c.h">
+      <Filter>src\render\ngage</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengl\SDL_glfuncs.h">
+      <Filter>src\render\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengl\SDL_shaders_gl.h">
+      <Filter>src\render\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengles2\SDL_gles2funcs.h">
+      <Filter>src\render\opengles2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\opengles2\SDL_shaders_gles2.h">
+      <Filter>src\render\opengles2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\psp\SDL_render_psp_c.h">
+      <Filter>src\render\psp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_blendfillrect.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_blendline.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_blendpoint.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_draw.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_drawline.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_drawpoint.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_render_sw_c.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\software\SDL_triangle.h">
+      <Filter>src\render\software</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm_memory.h">
+      <Filter>src\render\vitagxm</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm_shaders.h">
+      <Filter>src\render\vitagxm</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm_tools.h">
+      <Filter>src\render\vitagxm</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vitagxm\SDL_render_vita_gxm_types.h">
+      <Filter>src\render\vitagxm</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\SDL_shaders_vulkan.h">
+      <Filter>src\render\vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\VULKAN_PixelShader_Advanced.h">
+      <Filter>src\render\vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\VULKAN_PixelShader_Colors.h">
+      <Filter>src\render\vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\VULKAN_PixelShader_Textures.h">
+      <Filter>src\render\vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\render\vulkan\VULKAN_VertexShader.h">
+      <Filter>src\render\vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\sensor\SDL_sensor_c.h">
+      <Filter>src\sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\sensor\SDL_syssensor.h">
+      <Filter>src\sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_casefolding.h">
+      <Filter>src\stdlib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_getenv_c.h">
+      <Filter>src\stdlib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_sysstdlib.h">
+      <Filter>src\stdlib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\stdlib\SDL_vacopy.h">
+      <Filter>src\stdlib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\storage\SDL_sysstorage.h">
+      <Filter>src\storage</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\SDL_systhread.h">
+      <Filter>src\thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\SDL_thread_c.h">
+      <Filter>src\thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\time\SDL_time_c.h">
+      <Filter>src\time</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\timer\SDL_timer_c.h">
+      <Filter>src\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_RLEaccel_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_auto.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_copy.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_blit_slow.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_clipboard_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_egl_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_pixels_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_rect_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_rect_impl.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_rotate.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_stb_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_surface_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_sysvideo.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_video_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_video_unsupported.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_vulkan_internal.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\SDL_yuv_c.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\miniz.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\stb_image.h">
+      <Filter>src\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_common.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_internal.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_lsx.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_lsx_func.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_sse.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_sse_func.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_std.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\yuv2rgb\yuv_rgb_std_func.h">
+      <Filter>src\video\yuv2rgb</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\dummy\SDL_dummyaudio.h">
+      <Filter>src\audio\dummy</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\disk\SDL_diskaudio.h">
+      <Filter>src\audio\disk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\virtual\SDL_virtualjoystick_c.h">
+      <Filter>src\joystick\virtual</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_directx.h">
+      <Filter>src\core\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_gameinput.h">
+      <Filter>src\core\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_hid.h">
+      <Filter>src\core\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_immdevice.h">
+      <Filter>src\core\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_windows.h">
+      <Filter>src\core\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\core\windows\SDL_xinput.h">
+      <Filter>src\core\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\directsound\SDL_directsound.h">
+      <Filter>src\audio\directsound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\audio\wasapi\SDL_wasapi.h">
+      <Filter>src\audio\wasapi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_msctf.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsclipboard.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsevents.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsframebuffer.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsgameinput.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowskeyboard.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsmessagebox.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsmodes.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsmouse.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengl.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengles.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsrawinput.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsshape.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsvideo.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowsvulkan.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\SDL_windowswindow.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\windows\wmmsg.h">
+      <Filter>src\video\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\generic\SDL_syscond_c.h">
+      <Filter>src\thread\generic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\thread\generic\SDL_sysrwlock_c.h">
+      <Filter>src\thread\generic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\sensor\windows\SDL_windowssensor.h">
+      <Filter>src\sensor\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\storage\steam\SDL_steamstorage_proc.h">
+      <Filter>src\storage\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_dinputjoystick_c.h">
+      <Filter>src\joystick\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_rawinputjoystick_c.h">
+      <Filter>src\joystick\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_windowsjoystick_c.h">
+      <Filter>src\joystick\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\joystick\windows\SDL_xinputjoystick_c.h">
+      <Filter>src\joystick\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\windows\SDL_dinputhaptic_c.h">
+      <Filter>src\haptic\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\haptic\windows\SDL_windowshaptic_c.h">
+      <Filter>src\haptic\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenevents_c.h">
+      <Filter>src\video\offscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenframebuffer_c.h">
+      <Filter>src\video\offscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenopengles.h">
+      <Filter>src\video\offscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenvideo.h">
+      <Filter>src\video\offscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenvulkan.h">
+      <Filter>src\video\offscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenwindow.h">
+      <Filter>src\video\offscreen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\gpu\d3d12\D3D12_Blit.h">
+      <Filter>src\gpu\d3d12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\src\gpu\vulkan\SDL_gpu_vulkan_vkfuncs.h">
+      <Filter>src\gpu\vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_assert.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_asyncio.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_atomic.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_audio.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_begin_code.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_bits.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_blendmode.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_camera.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_clipboard.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_close_code.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_copying.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_cpuinfo.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_dialog.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_dlopennote.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_egl.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_endian.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_error.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_events.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_filesystem.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_gamepad.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_gpu.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_guid.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_haptic.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_hidapi.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_hints.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_init.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_intrin.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_iostream.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_joystick.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_keyboard.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_keycode.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_loadso.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_locale.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_log.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_main.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_main_impl.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_messagebox.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_metal.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_misc.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_mouse.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_mutex.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_oldnames.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengl.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengl_glext.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengles.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengles2.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengles2_gl2.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengles2_gl2ext.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengles2_gl2platform.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_opengles2_khrplatform.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_pen.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_pixels.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_platform.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_platform_defines.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_power.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_process.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_properties.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_rect.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_render.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_scancode.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_sensor.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_stdinc.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_storage.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_surface.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_system.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_thread.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_time.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_timer.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_touch.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_tray.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_version.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_video.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\include\SDL3\SDL_vulkan.h">
+      <Filter>include\SDL3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\include-revision\SDL3\SDL_revision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\Debug\cmake_pch.h">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\Release\cmake_pch.h">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\MinSizeRel\cmake_pch.h">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\RelWithDebInfo\cmake_pch.h">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\CMakeFiles\SDL3-static.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_atan2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_exp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_fmod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_log.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_log10.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_pow.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_rem_pio2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\e_sqrt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\k_cos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\k_rem_pio2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\k_sin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\k_tan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_atan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_copysign.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_cos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_fabs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_floor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_isinf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_isinff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_isnan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_isnanf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_modf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_scalbn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_sin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-build\SDL_uclibc.dir\$(Configuration)\s_tan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9F18B88F-CE07-3D4A-AD94-9D2970E6B0A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{F4781185-A641-329D-B1C5-7F1370F73A72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{F06E6B45-BF1C-3C0D-8F91-62DD0515C395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{288433E8-A51B-3A6F-8BBB-C94363BD45D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{40AF915C-09E3-31C8-B05B-C8D506128CD8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\SDL3">
+      <UniqueIdentifier>{C1326573-F3E3-39AC-9350-2A8A44D085D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{AB91BCF4-1F75-374B-84B6-ABA72052E146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\atomic">
+      <UniqueIdentifier>{D255A3BA-67ED-3E06-94AF-57B1685B4D86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio">
+      <UniqueIdentifier>{BB8A7700-97E1-34B3-B240-28A8566A67CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio\directsound">
+      <UniqueIdentifier>{35D88020-F9FC-31EA-9D90-BBCA6FA2EB3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio\disk">
+      <UniqueIdentifier>{5F491431-1F0D-34ED-8E9C-A8BEAA63C020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio\dummy">
+      <UniqueIdentifier>{2F5EB2FE-1034-311D-9D88-EEFFB91BF0DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio\wasapi">
+      <UniqueIdentifier>{ABC7454B-E34B-32EA-9A8F-005DA0DD1508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\camera">
+      <UniqueIdentifier>{2DE4C3F1-3F72-3FD2-8FC6-1E08A5296839}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\camera\dummy">
+      <UniqueIdentifier>{6FB56F54-53BD-3892-8108-A3A0B87892E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\camera\mediafoundation">
+      <UniqueIdentifier>{EC5DCA8A-9443-3B04-9976-5922C3EF6DBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{5237B67C-E29B-32DD-9326-D09FEEBDDC5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\windows">
+      <UniqueIdentifier>{9D49D220-6A3E-3E8B-A9A1-FD9A812293E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cpuinfo">
+      <UniqueIdentifier>{FACA9F1F-3F98-3798-A42A-841ACC834591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\dialog">
+      <UniqueIdentifier>{10F1031E-57D4-3D7F-B362-DDC977382F6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\dialog\windows">
+      <UniqueIdentifier>{424437E1-BE45-3192-8B05-8575765A4A29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\dynapi">
+      <UniqueIdentifier>{611CA37E-FF45-393A-B28B-6CCA96C9C33D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\events">
+      <UniqueIdentifier>{C1069CA5-C4A2-3683-9BB4-E22212AEA430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\filesystem">
+      <UniqueIdentifier>{B1403206-B7A2-307D-B436-746E4B9BEF57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\filesystem\windows">
+      <UniqueIdentifier>{1355385E-1227-34D6-B33F-370DDFD527AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gpu">
+      <UniqueIdentifier>{1E5CDE22-A8DC-3429-9C4A-D504B779FB90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gpu\d3d12">
+      <UniqueIdentifier>{187D3BC0-86A2-3169-80CA-6F731573D099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gpu\vulkan">
+      <UniqueIdentifier>{22C8F447-3EDA-3B59-8D0E-13774CFC6873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\haptic">
+      <UniqueIdentifier>{DCB76072-7206-38A2-ADCF-A1DB0CF68A37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\haptic\hidapi">
+      <UniqueIdentifier>{2ED71A77-FCC2-365A-BAE3-C118D528164B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\haptic\windows">
+      <UniqueIdentifier>{2248BB8A-7916-3028-9466-410C0D7DE5DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\hidapi">
+      <UniqueIdentifier>{F6008D3D-B594-3467-8D7C-36A45B8A29CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io">
+      <UniqueIdentifier>{07864BC4-8CD5-3EF4-A8CB-318F7F09DB14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\generic">
+      <UniqueIdentifier>{B7B771C5-9E31-35F9-837E-372DFCFE909E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\windows">
+      <UniqueIdentifier>{D6D9B617-8D2E-3895-A9B2-F4252CA9F909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\joystick">
+      <UniqueIdentifier>{C3C09190-0538-3F5D-9DC4-9209B4E24BF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\joystick\gdk">
+      <UniqueIdentifier>{8699C4D4-9A30-3653-9B90-43DE5F00CD8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\joystick\hidapi">
+      <UniqueIdentifier>{D26EF422-7A15-3A9A-9B9A-F70783E59EBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\joystick\virtual">
+      <UniqueIdentifier>{0147A151-0531-3F4D-BF7F-D551BF50F079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\joystick\windows">
+      <UniqueIdentifier>{653C9134-25FA-34AB-BD26-680A2B4E93AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\loadso">
+      <UniqueIdentifier>{37B986E7-CFA6-3FCB-A75A-450828B33FBD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\loadso\windows">
+      <UniqueIdentifier>{CA9C8439-81F4-31A9-94FA-26189D6593A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\locale">
+      <UniqueIdentifier>{0290C8F7-88EB-3D40-9FBE-CE436EE24696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\locale\windows">
+      <UniqueIdentifier>{BD05331C-CA74-35FD-97F7-CDB05792C6D9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\main">
+      <UniqueIdentifier>{BA43F501-C216-350A-B942-EDCA76620954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\main\generic">
+      <UniqueIdentifier>{D0032319-E5CC-32EA-946A-8695B75A2B8B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\main\windows">
+      <UniqueIdentifier>{58F85CD4-4ABA-3046-B334-DB2B178E4E00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\misc">
+      <UniqueIdentifier>{92A67438-510B-3EDA-8E1F-DBD0B00BABE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\misc\windows">
+      <UniqueIdentifier>{729673F3-AA68-3B87-9AAA-28E50B167E60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\power">
+      <UniqueIdentifier>{92F41FF2-1E5A-325D-B973-EA8D55722908}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\power\windows">
+      <UniqueIdentifier>{805B342E-17F2-3C6D-8B25-C350DD71C920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\process">
+      <UniqueIdentifier>{781AE42A-F993-314D-827C-F8443DDBE242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\process\windows">
+      <UniqueIdentifier>{E3353BC1-C5F6-36E9-AA3F-2A3C36E96004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render">
+      <UniqueIdentifier>{6FB6258C-649A-37C4-A6B0-B3B493ADBA06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\direct3d">
+      <UniqueIdentifier>{6B04F8F6-A666-3ED8-9934-0F770E087628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\direct3d11">
+      <UniqueIdentifier>{14F7EDC8-79A9-353B-AAD1-A57761F53082}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\direct3d12">
+      <UniqueIdentifier>{0CCCBFDA-9AC5-362F-B5E6-63DEA10EC70A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\gpu">
+      <UniqueIdentifier>{75BA1C3B-9FF3-3901-93CD-D71C7BC0C1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\metal">
+      <UniqueIdentifier>{4D9DB524-8990-3E99-B0F0-46E4EB69A9B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\ngage">
+      <UniqueIdentifier>{6274344D-C757-3AC5-93B7-F993BBFDC038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\opengl">
+      <UniqueIdentifier>{B6EF043F-1547-3929-A071-CE560BD06F71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\opengles2">
+      <UniqueIdentifier>{3D79C6C2-9399-3347-924B-084E9BF43289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\ps2">
+      <UniqueIdentifier>{38D30D31-98C5-3488-B91D-A2487A140D63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\psp">
+      <UniqueIdentifier>{73405489-F4E7-3F2C-9E72-BB68E7032AF2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\software">
+      <UniqueIdentifier>{7EDC0568-3E28-33C4-9F80-8A01A7C248A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\vitagxm">
+      <UniqueIdentifier>{28422F5F-F815-3281-BC6F-2F06916A22A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\render\vulkan">
+      <UniqueIdentifier>{442E28AC-BB72-356B-8987-D68164A0772C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\sensor">
+      <UniqueIdentifier>{CD2EE7FA-EB70-3F72-90DC-3B5D5899DEBE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\sensor\windows">
+      <UniqueIdentifier>{424A6F14-A0A0-310E-845A-1E95CA9D464D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\stdlib">
+      <UniqueIdentifier>{3F3ED1D7-26D4-3FEC-918A-5BDEE1D6F0F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\storage">
+      <UniqueIdentifier>{AC4C10F8-CCDE-3414-8247-A01622E8C436}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\storage\generic">
+      <UniqueIdentifier>{6A88BF0D-4B6F-361F-A731-469B34D279A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\storage\steam">
+      <UniqueIdentifier>{6AE61C9E-C922-3858-914A-118349F39110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\thread">
+      <UniqueIdentifier>{92513A0C-26E9-3A90-B06B-EC64B3118893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\thread\generic">
+      <UniqueIdentifier>{03941860-F2DF-387B-A68C-6EB01AADCFD0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\thread\windows">
+      <UniqueIdentifier>{ACD1DFAB-21B2-3443-8044-B9016590AB2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\time">
+      <UniqueIdentifier>{4D308EF2-2048-3651-B0A6-898ACF2E4A34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\time\windows">
+      <UniqueIdentifier>{271D96FE-E714-358F-BDA0-A5A9B106876B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\timer">
+      <UniqueIdentifier>{56004928-B9A4-3E18-808B-3507C6BBC652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\timer\windows">
+      <UniqueIdentifier>{81562150-CEDC-3F05-8D94-7CE5AA61F9A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\tray">
+      <UniqueIdentifier>{433A978A-CFFA-3B71-B66B-FB718FFED92B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\tray\windows">
+      <UniqueIdentifier>{54E89536-70F1-3081-9EEF-E5637F9374B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\video">
+      <UniqueIdentifier>{4E51F863-B105-33EF-9B9D-ACD09270E3C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\video\offscreen">
+      <UniqueIdentifier>{0655BCD7-9E14-3F97-B629-2F15FFB0DF6E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\video\windows">
+      <UniqueIdentifier>{BE73A3B5-9B73-3F7C-AA69-F2A2CCAC8501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\video\yuv2rgb">
+      <UniqueIdentifier>{2D252949-D133-32B1-8F38-7257070A3B13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

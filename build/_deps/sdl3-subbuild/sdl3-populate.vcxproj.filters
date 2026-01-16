@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\d895e47703703b51107c5b2e0aee5ef0\sdl3-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\dd866298687772311741e8d0bff273e3\sdl3-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\8976056aef088abb8e24ca59b049adcd\sdl3-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kgdch\source\repos\TickForge\build\_deps\sdl3-subbuild\CMakeFiles\sdl3-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1E493936-E29A-371F-9480-DCB69B9B8B17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
