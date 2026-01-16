@@ -3,6 +3,15 @@
 
 namespace TickForge
 {
+    void Entity::tick(double factor) 
+    {    
+        // Déplacement simple par tick
+        position.x += velocity.x * factor;
+        position.y += velocity.y * factor;
+
+        // Ici on pourrait appliquer d'autres règles par tick
+    }
+
     bool Entity::collidesWith(const Entity &other) const
     {
         if (type == EntityType::Circle && other.type == EntityType::Circle)
@@ -22,8 +31,8 @@ namespace TickForge
 
     bool Entity::circleCircle(const Entity &other) const
     {
-        float dx = position.x - other.position.x;
-        float dy = position.y - other.position.y;
+        double dx = position.x - other.position.x;
+        double dy = position.y - other.position.y;
         float r  = radius + other.radius;
 
         return (dx*dx + dy*dy) <= (r*r);
@@ -40,16 +49,16 @@ namespace TickForge
     bool Entity::circleRect(const Entity &c, const Entity &r) const
     {
 
-        float closestX = std::clamp(c.position.x,
+        double closestX = std::clamp(c.position.x,
                                 r.position.x,
                                 r.position.x + r.size.x);
 
-        float closestY = std::clamp(c.position.y,
+        double closestY = std::clamp(c.position.y,
                                     r.position.y,
                                     r.position.y + r.size.y);
 
-        float dx = c.position.x - closestX;
-        float dy = c.position.y - closestY;
+        double dx = c.position.x - closestX;
+        double dy = c.position.y - closestY;
 
         return (dx*dx + dy*dy) <= (c.radius * c.radius);
     }

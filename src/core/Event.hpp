@@ -13,6 +13,7 @@ namespace TickForge
 
     enum class WallSide
     {
+        None,
         Left,
         Right,
         Top,
@@ -24,5 +25,6 @@ namespace TickForge
         EventType type;
         int entityId;
         WallSide wallSide;
+        uint64_t tickNumber = 0; // tick auquel l'événement est produit
     };
 }

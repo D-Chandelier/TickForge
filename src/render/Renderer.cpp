@@ -69,10 +69,10 @@ namespace TickForge
             if (e.type == TickForge::EntityType::Rectangle)
             {
                 SDL_FRect rect;
-                rect.w = e.size.x;
-                rect.h = e.size.y;
-                rect.x = e.position.x;
-                rect.y = e.position.y;
+                rect.w = static_cast<float>(e.size.x);
+                rect.h = static_cast<float>(e.size.y);
+                rect.x = static_cast<float>(e.position.x);
+                rect.y = static_cast<float>(e.position.y);
                 SDL_RenderFillRect(m_renderer, &rect);
                 continue;
             }
@@ -89,7 +89,7 @@ namespace TickForge
         SDL_RenderPresent(m_renderer);
     }
 
-    void Renderer::drawFilledCircle(SDL_Renderer* r, float cx, float cy, float radius)
+    void Renderer::drawFilledCircle(SDL_Renderer* r, double cx, double cy, float radius)
     {
         const int ir = static_cast<int>(radius);
 
@@ -97,18 +97,18 @@ namespace TickForge
         {
             float dx = std::sqrt(radius * radius - y * y);
 
-            float x0 = cx - dx;
-            float x1 = cx + dx;
+            float x0 = static_cast<float>(cx - dx);
+            float x1 = static_cast<float>(cx + dx);
 
             SDL_RenderLine(
                 r,
-                x0, cy + y,
-                x1, cy + y
+                x0, static_cast<float>(cy + y),
+                x1, static_cast<float>(cy + y)
             );
         }
     }
 
-    void Renderer::drawCircle(SDL_Renderer* r, float cx, float cy, float radius)
+    void Renderer::drawCircle(SDL_Renderer* r, double cx, double cy, float radius)
     {
         const int segments = 24;
         for (int i = 0; i < segments; ++i)
@@ -118,8 +118,8 @@ namespace TickForge
 
             SDL_RenderLine(
                 r,
-                cx + cos(a0)*radius, cy + sin(a0)*radius,
-                cx + cos(a1)*radius, cy + sin(a1)*radius
+                static_cast<float>(cx) + cos(a0)*radius, static_cast<float>(cy) + sin(a0)*radius,
+                static_cast<float>(cx) + cos(a1)*radius, static_cast<float>(cy) + sin(a1)*radius
             );
         }
     }

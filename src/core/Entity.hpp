@@ -3,6 +3,14 @@
 
 namespace TickForge
 {
+    struct Vec2D {
+        double x = 0;
+        double y = 0;
+    };
+    struct Vec2F {
+        float x = 0;
+        float y = 0;
+    };
     enum class EntityType
     {
         Rectangle,
@@ -13,24 +21,15 @@ namespace TickForge
     {
         int id;
 
-        EntityType type;
-
-        struct
-        {
-            float x,y;
-        } position;
-        struct
-        {
-            float x,y;
-        } size;
-        struct
-        {
-            float x,y;
-        } velocity;
+        EntityType type = EntityType::Rectangle;
+        Vec2D position;
+        Vec2D size;
+        Vec2D velocity;        
 
         float radius = 0.f;
         float mass = 1.f;
 
+        void tick(double factor = 1.f);
         bool collidesWith(const Entity &other) const;
     
     private:

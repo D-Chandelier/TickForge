@@ -7,12 +7,16 @@ namespace TickForge
     {
     }
 
-    void RuleSystem::apply(World &world)
+    void RuleSystem::apply(World &world,  uint64_t currentTick)
     {
         const auto &events = world.events();
+        std::vector<uint64_t> entitiesToRemove;
 
         for (const auto &ev : events)
         {
+            if (ev.tickNumber != currentTick)
+                continue;
+
             for (const auto &rule : m_rules)
             {
                 if (rule.trigger != ev.type)
@@ -40,10 +44,11 @@ namespace TickForge
                         break;
 
                     case ActionType::RemoveEntity:
-                        world.removeEntity(e.id);
+                        entitiesToRemove.push_back(e.id);
                         break;
 
                     case ActionType::AddEntity:
+                        // TODO : créer et ajouter l'entité
                         break;
 
                     case ActionType::ScaleSize:
@@ -57,5 +62,8 @@ namespace TickForge
                 }
             }
         }
+        // Supprimer les entités après avoir parcouru les events
+        for (auto id : entitiesToRemove)
+            world.removeEntity(id);
     }
 }

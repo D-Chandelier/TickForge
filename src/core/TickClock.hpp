@@ -6,7 +6,8 @@ namespace TickForge
 {
     class TickClock {
     public:
-        TickClock(double tickDurationSeconds);
+        // tickDurationSeconds : durée d'un tick fixe en secondes (ex. 1/60.0 pour 60 ticks/s)
+        explicit TickClock(double tickDurationSeconds);
 
         // Avance le clock
         void update(double deltaTimeSeconds);
@@ -15,6 +16,9 @@ namespace TickForge
         bool canStep() const;
 
         void consumeStep();
+
+        // Optionnel : obtenir nombre de ticks prêts
+        uint64_t getPendingTicks() const;
 
     private:
         double tickDuration;

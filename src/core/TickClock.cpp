@@ -22,6 +22,11 @@ namespace TickForge
     void TickClock::consumeStep() {
         if(pendingTicks > 0) pendingTicks--;
     }
+
+    uint64_t TickClock::getPendingTicks() const {
+        return pendingTicks;
+    }
+    
     // static double now()
     // {
     //     using clock = std::chrono::high_resolution_clock;

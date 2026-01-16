@@ -14,8 +14,8 @@ namespace TickForge
 
         void clear();
         void drawWorld(const World &world);
-        void drawCircle(SDL_Renderer* r, float cx, float cy, float radius);
-        void drawFilledCircle(SDL_Renderer* r, float cx, float cy, float radius);
+        void drawCircle(SDL_Renderer* r, double cx, double cy, float radius);
+        void drawFilledCircle(SDL_Renderer* r, double cx, double cy, float radius);
         void present();
         void pollEvents();
 

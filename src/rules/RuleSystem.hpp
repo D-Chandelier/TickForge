@@ -10,7 +10,7 @@ namespace TickForge
     public:
         explicit RuleSystem(std::vector<Rule> rules);
 
-        void apply(World &world);
+        void apply(World &world, uint64_t currentTick);
 
     private:
         std::vector<Rule> m_rules;
