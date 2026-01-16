@@ -3,14 +3,28 @@
 
 namespace TickForge
 {
-    void World::update(float dt)
+    World::World() {}
+
+    void World::addEntity(const Entity& e) {
+        m_entities.push_back(e);
+    }
+
+    const std::vector<Entity>& World::entities() const {
+        return m_entities;
+    }
+
+    std::vector<Entity>& World::entities()  {
+        return m_entities;
+    }
+
+    void World::update() //(float dt)
     {
         m_events.clear();
 
         for (auto &e : m_entities)
         {
-            e.position.x += e.velocity.x * dt;
-            e.position.y += e.velocity.y * dt;
+            e.position.x += e.velocity.x; // * dt;
+            e.position.y += e.velocity.y; // * dt;
         }
         handleCollisions();
     }

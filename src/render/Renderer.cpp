@@ -113,8 +113,8 @@ namespace TickForge
         const int segments = 24;
         for (int i = 0; i < segments; ++i)
         {
-            float a0 = i * 2.0f * M_PI / segments;
-            float a1 = (i+1) * 2.0f * M_PI / segments;
+            float a0 = static_cast<float>(i * 2.0f * M_PI / segments);
+            float a1 = static_cast<float>((i+1) * 2.0f * M_PI / segments);
 
             SDL_RenderLine(
                 r,

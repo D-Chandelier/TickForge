@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include "World.hpp"
+#include "core/World.hpp"
 #include <SDL3/SDL.h>
 
 namespace TickForge

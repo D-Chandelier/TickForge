@@ -1,15 +1,18 @@
 ﻿#include <iostream>
 #include <SDL3/SDL.h>
+#include <chrono>
+#include <thread>
+
 #include "core/Entity.hpp"
-#include "core/Renderer.hpp"
 #include "core/TickClock.hpp"
 #include "core/World.hpp"
+#include "render/Renderer.hpp"
 #include "rules/RuleLoader.hpp"
 #include "rules/RuleSystem.hpp"
 
 int main()
 {
-    constexpr float TICK_DT = 1.0f / 120.0f;
+    constexpr float TICK_DT = 1.0f / 60.0f;
 
     TickForge::TickClock clock(TICK_DT);
     TickForge::World world;
@@ -40,13 +43,19 @@ int main()
     world.addEntity(e2);
     world.addEntity(e3);
 
+    auto lastTime = std::chrono::high_resolution_clock::now();
+
     while (renderer.isRunning())
     {
-        clock.update();
+        auto now = std::chrono::high_resolution_clock::now();
+        std::chrono::duration<double> deltaTime = now - lastTime;
+        lastTime = now;
+
+        clock.update(deltaTime.count());
 
         while (clock.canStep())
         {
-            world.update(TICK_DT);
+            world.update(); //(TICK_DT);
             ruleSystem.apply(world);
             clock.consumeStep();
         }

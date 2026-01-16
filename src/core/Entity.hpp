@@ -32,6 +32,8 @@ namespace TickForge
         float mass = 1.f;
 
         bool collidesWith(const Entity &other) const;
+    
+    private:
         bool circleCircle(const Entity &other) const;
         bool rectRect(const Entity& other) const;
         bool circleRect(const Entity& c, const Entity& r) const;

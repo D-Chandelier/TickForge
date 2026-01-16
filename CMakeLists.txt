@@ -54,8 +54,8 @@ add_executable(tickforge
     src/main.cpp
     src/core/TickClock.cpp
     src/core/World.cpp
-    src/core/Renderer.cpp
     src/core/Entity.cpp
+    src/render/Renderer.cpp
     src/rules/RuleSystem.cpp
     src/rules/RuleLoader.cpp
 )
